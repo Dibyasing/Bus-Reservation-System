@@ -39,8 +39,7 @@ Welcome to the Bus Reservation System built with Spring Boot and Hibernate. This
 
 ## Contributors
 
-- 
-- [Contributor 2](Dibyasing)
+- Dibya Jyoti Singh
 
 Feel free to contribute and enhance the Bus Reservation System using Spring Boot and Hibernate!
 
